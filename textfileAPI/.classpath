@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/ecj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/New folder/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/.m2/repository/javax/javaee-api/7.0/javaee-api-7.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="javaee-api-7.0.jar"/>
+			<attribute name="maven.groupId" value="javax"/>
+			<attribute name="maven.artifactId" value="javaee-api"/>
+			<attribute name="maven.version" value="7.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
